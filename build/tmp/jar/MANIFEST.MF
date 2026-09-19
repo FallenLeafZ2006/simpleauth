@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: examplemod
+Specification-Vendor: YourNameHere, OtherNameHere
+Specification-Version: 1
+Implementation-Title: forge-1.20.1-47.3.6-mdk
+Implementation-Version: 1.0.0
+Implementation-Vendor: YourNameHere, OtherNameHere
+Implementation-Timestamp: 2026-09-18T13:09:43+0800
+

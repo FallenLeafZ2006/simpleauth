@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="simpleauth"
+version="1.0.0"
+displayName="SimpleAuth"
+authors="FallenLeaf_Z"
+description='''Basic server-side login/register mod for Forge 1.20.1.'''
+
+[[dependencies.simpleauth]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.simpleauth]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
